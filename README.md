@@ -77,3 +77,31 @@ Based on the analysis, the following strategies can improve business performance
 ---
 
 ## 📊 Project Structure
+Ugao_EDA_Project
+│
+├── ugao_eda.ipynb
+├── ugao_eda_completed_final.html
+├── README.md
+├── intro_m.png
+└── ugaooo_image.png
+
+## 🚀 How to View the Project
+
+1. Clone the repository
+2. Open the **Jupyter Notebook** to explore the analysis
+3. Or open the **exported HTML file** to view the full report
+4. Or you can also visit pdf format file available in this repository.
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how exploratory data analysis can uncover meaningful insights from transactional sales data and support **data-driven decision making** in e-commerce operations.
+
+---
+
+## 👩‍💻 Author
+
+**Dishu Goyal**
+
+Aspiring **Data Analyst / Business Analyst** passionate about transforming data into actionable insights.
